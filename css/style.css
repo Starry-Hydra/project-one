@@ -15,14 +15,14 @@ body {
 header {
     display: flex;
     justify-content: space-evenly;
-    padding: 10px;
+    margin: 15px;
 }
 
 
 header img {
     height: 70px;
     width: 70px;
-    padding-right: 30%;
+    margin-right: 30%;
 }
 
 nav {
